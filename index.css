@@ -1,0 +1,38 @@
+h1{
+    color: #dd1313;
+}
+hr{
+    border-style: groove;
+}
+.class1{
+    font-size: 32px;
+    color: #f7531d;
+    font-style: ;
+}
+.class2{
+    color: darkred;
+}
+span{
+    background-color: yellow;
+}
+.class3{
+    font-style: italic;
+    color: darkred;
+    text-decoration: underline;
+}
+.class4{
+    color: darkred;
+    letter-spacing: 3.5px;
+    word-spacing: 2px;
+    line-height: 20px;
+}
+.class5{
+    color: darkred;
+    letter-spacing: 3.5px;
+    word-spacing: 2px;
+}
+.class6{
+    color: darkred;
+    font-style: italic;
+    background-color: yellow;
+}
